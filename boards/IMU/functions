@@ -1,0 +1,72 @@
+/*
+begin() to begin communication with ac and gy
+setOdr() to set the output rate with ac and gy
+setRange() to set range for ac and gy
+pinModeInt#() to set pin # to certain config and set up pin to map data to pin #
+readSensor() to read
+
+*/
+
+int beginAccel(){
+
+}
+
+bool setOdr(){
+
+}
+
+bool setRange(){
+
+}
+
+bool pinModeInt(){
+
+}
+
+bool mapDrdyInt(){
+
+}
+
+bool getDrdyStatus(){
+
+}
+
+void readSensor(){
+
+}
+
+float getAccel(){
+
+}
+
+bool selfTest(){
+
+}
+
+bool setMode(){
+
+}
+
+bool setPower(){
+
+}
+
+void softReset(){
+
+}
+
+bool isError(){
+  //for config and fatal errors and for ID
+}
+
+void writeToRegister(){
+
+}
+
+void writeToRegisters(){
+
+}
+
+void readRegisters(){
+  
+}

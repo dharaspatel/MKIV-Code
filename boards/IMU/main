@@ -1,0 +1,17 @@
+/*
+executes all code
+*/
+
+#include "SPI.h"
+
+class BmiAccel{
+//takes in SPI bus and chip select pin
+}
+
+class BmiGyro{
+  //takes in SPI bus and chip select pin
+}
+
+class Bmi{
+
+}
